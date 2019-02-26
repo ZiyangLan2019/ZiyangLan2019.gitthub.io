@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ziyang Lan</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-26T09:09:14.232Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Ziyang Lan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://yoursite.com/2019/02/26/about/"/>
+    <id>http://yoursite.com/2019/02/26/about/</id>
+    <published>2019-02-26T09:04:24.076Z</published>
+    <updated>2019-02-26T09:09:14.232Z</updated>
+    
+    <content type="html"><![CDATA[<p>Name: Ziyang Lan</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Name: Ziyang Lan&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
